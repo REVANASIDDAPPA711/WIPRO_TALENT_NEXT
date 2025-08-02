@@ -1,6 +1,6 @@
-// 8.	Program to swap two numbers using temporary variable.
-// 9.	Program to swap two numbers without using temporary variable.
-// 10.	Program to swap two numbers using bitwise operators.
+// 	Program to swap two numbers using temporary variable.
+// Program to swap two numbers without using temporary variable.
+// Program to swap two numbers using bitwise operators.
 // program to swap two decimal numbers using a temporary variable.
 // Program to swap two characters using a temporary variable.
 class swap {
