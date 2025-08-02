@@ -7,8 +7,8 @@ public class onecomplement {
         int num = sc.nextInt();
         
         // Calculate one's complement
-        int onesComplement = ~num;
+        int ones_complement = ~num;
         
-        System.out.println("One's complement of " + num + " is: " + onesComplement);
+        System.out.println("One's complement of " + num + " is: " + ones_omplement);
     }
 } 
