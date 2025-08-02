@@ -1,6 +1,6 @@
-// 34.	Program to check whether a given no is positive.   
-// 35.	Program to check whether a given no is positive or negative.
-// // 36.	Program to check whether a given no is positive, negative or zero using ternary.
+//Program to check whether a given no is positive.   
+//Program to check whether a given no is positive or negative.
+//Program to check whether a given no is positive, negative or zero using ternary.
 class povorneg {
     public static void main(String[] args) {
         int number = 5; // Example number
