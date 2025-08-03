@@ -1,4 +1,4 @@
-// 42.	Program to accept a character, if the entered character is in upper case then convert it into lower case and vice versa.( Toggle)   a      A        A    a
+// 	Program to accept a character, if the entered character is in upper case then convert it into lower case and vice versa.( Toggle)   a      A        A    a
 // program to toggle the string case of a character.
 class Toggle {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ class Toggle {
 
         // System.out.println("Toggled character: " + ch);
 
-        String str = "Somya Lakshmi"; // Example string
+        String str = "Shiva"; // Example string
         StringBuilder toggledStr = new StringBuilder(); 
         for (char ch : str.toCharArray()) {
             if (Character.isUpperCase(ch)) {
