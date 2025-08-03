@@ -1,6 +1,6 @@
-// 39.	Program to accept a character and print it is a vowel or not.   ‘A’    9
-// 40.	Program to accept a character and print it is a vowel or consonant.  ‘a’      ‘s’  
-// 41.	Program to accept a character and print it is a vowel, consonant or a digit.
+// Program to accept a character and print it is a vowel or not.   ‘A’    9
+// Program to accept a character and print it is a vowel or consonant.  ‘a’      ‘s’  
+// Program to accept a character and print it is a vowel, consonant or a digit.
 import java.util.Scanner;
 public class character {
     public static void main(String[] args) {
